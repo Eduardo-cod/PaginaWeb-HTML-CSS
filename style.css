@@ -76,7 +76,7 @@ header .container{
     align-items: center;
 }
 
-heder nav{
+header nav{
     display: flex;
     flex-direction: column;
     text-align: center;
